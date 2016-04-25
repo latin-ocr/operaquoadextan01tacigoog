@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquoadextan01tacigoog_0002.png"; bbox 0 0 2559 3692; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 523 1843 1735 1961">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 523 1843 1735 1961">
+     <span class='ocr_line' id='line_1_1' title="bbox 523 1843 1735 1961; baseline -0.002 -20"><span class='ocrx_word' id='word_1_1' title='bbox 523 1844 936 1961; x_wconf 45' lang='lat' dir='ltr'>&amp;athath</span> <span class='ocrx_word' id='word_1_2' title='bbox 977 1846 1325 1959; x_wconf 60' lang='lat' dir='ltr'>tollent</span> <span class='ocrx_word' id='word_1_3' title='bbox 1362 1843 1735 1958; x_wconf 62' lang='lat' dir='ltr'>librat?</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1042 2079 1219 2124">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1042 2079 1219 2124">
+     <span class='ocr_line' id='line_1_2' title="bbox 1042 2079 1219 2124; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 1042 2079 1219 2124; x_wconf 71' lang='lat' dir='ltr'>mou</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 487 2257 1779 2504">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 487 2257 1779 2504">
+     <span class='ocr_line' id='line_1_3' title="bbox 487 2257 1779 2349; baseline -0.002 0"><span class='ocrx_word' id='word_1_5' title='bbox 487 2335 662 2349; x_wconf 92' lang='grc'><strong>.........</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 665 2257 1779 2347; x_wconf 58' lang='grc' dir='ltr'>ΤὴοΕεῒῑαῑορτ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 545 2423 1679 2504; baseline 0.004 -7"><span class='ocrx_word' id='word_1_7' title='bbox 545 2423 1083 2500; x_wconf 68' lang='lat' dir='ltr'>Ellzaboth</span> <span class='ocrx_word' id='word_1_8' title='bbox 1141 2430 1243 2500; x_wconf 76' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1327 2429 1679 2504; x_wconf 73' lang='lat' dir='ltr'><strong>Norton</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 383 330 1847 2939">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 383 330 1847 2939">
+     <span class='ocr_line' id='line_1_5' title="bbox 383 330 1847 2939; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 383 330 1847 2939; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
